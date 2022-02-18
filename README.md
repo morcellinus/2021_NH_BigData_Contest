@@ -1,14 +1,14 @@
 ## 2021 제2회 NH 투자증권 빅데이터 경진대회 대상(1위) AVCD
 <br>
----
 <br>
 2021 제2회 NH투자증권 빅데이터 경진대회 대상 수상 모델을 담은 Repo입니다. <br>
 
 ![AVCD_최종](https://user-images.githubusercontent.com/83468520/154619693-47728630-3fd4-4529-a803-d848c1e8eb42.jpg)
 <br>
----
+
+[공모전링크](https://dacon.io/competitions/official/235798/overview/description) 
+
 <br>
-[공모전링크](https://dacon.io/competitions/official/235798/overview/description) <br>
 
 `팀원 상세`
 <br>
@@ -18,12 +18,14 @@
 
 `파일 상세` 
 <br>
-**1. AVCD_최종코드** <br>
-| 데이터 전처리에서부터 예측 모델링 및 테스트 데이터 적합까지의 과정을 모두 담은 코드입니다. <br>
-**2. 모델 설명서** <br>
-| 전처리와 모델링 과정에서 사용한 방법과 사용 이유를 정리한 마크다운 문서입니다. <br>
----
+1. AVCD_최종코드 
 <br>
+| 데이터 전처리에서부터 예측 모델링 및 테스트 데이터 적합까지의 과정을 모두 담은 코드입니다. 
+<br>
+2. 모델 설명서 
+<br>
+| 전처리와 모델링 과정에서 사용한 방법과 사용 이유를 정리한 마크다운 문서입니다. <br>
+
 `로컬 및 colab 환경`
 <br>
 * CPU: Apple M1 APL1102 SoC. <br>
