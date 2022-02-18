@@ -6,17 +6,19 @@
 ![AVCD_최종](https://user-images.githubusercontent.com/83468520/154619693-47728630-3fd4-4529-a803-d848c1e8eb42.jpg)
 <br>
 
-[공모전링크](https://dacon.io/competitions/official/235798/overview/description) 
+공모전 링크: [클릭](https://dacon.io/competitions/official/235798/overview/description) 
 
 <br>
 
 `팀원 상세`
+<br>
 <br>
 | 이진모(성균관대학교 통계학과) <br>
 | 이은서(성균관대학교 데이터사이언스학과) <br>
 | 임주은(성균관대학교 통계학과) <br>
 
 `파일 상세` 
+<br>
 <br>
 | AVCD_최종코드: 데이터 전처리에서부터 예측 모델링 및 테스트 데이터 적합까지의 과정을 모두 담은 코드입니다. <br>
 | 모델 설명서: 전처리와 모델링 과정에서 사용한 방법과 사용 이유를 정리한 마크다운 문서입니다. <br>
